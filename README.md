@@ -4,6 +4,7 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+Named Entity Recognition (NER) is a task in Natural Language Processing (NLP) that identifies entities such as names of persons, locations, organizations, etc., in text.
 <img width="572" height="730" alt="image" src="https://github.com/user-attachments/assets/78abba41-96d9-45ed-a9f4-8a6f32b62f66" />
 
 <img width="640" height="842" alt="image" src="https://github.com/user-attachments/assets/cad46d03-4a42-4e4a-bd7b-410ddaa4ff36" />
